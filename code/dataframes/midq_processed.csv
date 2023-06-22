@@ -1,0 +1,25 @@
+,participant,session,age,gender,nationality,race,proficiency,extraversion,agreeableness,conscientiousness,neuroticism,openness,religiousness,political,agreeable_general,relationalc,likingscale,slope,interpersonal
+0,6,3.0,30,Male,German,Caucasian/European American/White,Proficient User,8,7,9,6,7,,,6,,6.142857142857143,11.546675082852992,0.2732114882506528
+1,7,3.0,38,Male,Taiwan,Asian/Asian American,Proficient User,4,10,6,7,10,,,7,,6.285714285714286,59.12031511944059,0.5968929503916448
+2,8,4.0,20,Female,Chinese,Asian/Asian American,Native speaker,6,7,6,8,9,4.0,6.0,5,,4.428571428571429,2.0662432921629383,0.0691051007442367
+3,9,4.0,21,Male,American,African/African American/Black,Native speaker,5,6,5,6,5,2.0,5.0,6,,4.285714285714286,0.9500046990341464,0.16873298239244874
+4,10,5.0,34,Female,Colombian,Hispanic/Latino/Latina/Latinx/Latine,Native speaker,5,9,8,6,5,4.0,6.0,7,,5.142857142857143,53.39627886869458,0.5312322140011383
+5,11,5.0,55,Female,American,Caucasian/European American/White,Native speaker,10,7,10,2,10,6.0,1.0,7,,7.0,33.13563212720864,0.3552504268639727
+6,28,14.0,58,Female,United States,Caucasian/European American/White,Native speaker,8,8,10,5,10,1.0,7.0,7,,6.142857142857143,69.2279609272721,0.6686730024639211
+7,29,14.0,33,Female,American,Caucasian/European American/White,Native speaker,5,7,9,6,9,6.0,3.0,7,,6.571428571428571,66.03967669710188,0.6463217177050335
+8,44,22.0,31,Male,American,Caucasian/European American/White,Native speaker,6,3,7,6,5,2.0,7.0,5,,3.4285714285714284,3.710062133157968,0.1557123394316855
+9,45,22.0,46,Male,American,Caucasian/European American/White,Native speaker,6,2,4,2,5,7.0,2.0,4,,4.714285714285714,-4.072823715623164,0.30404826780848576
+10,50,25.0,24,Male,USA,Caucasian/European American/White,Native speaker,8,8,8,7,8,2.0,5.0,7,,5.714285714285714,36.0521195157531,0.3359415949082741
+11,51,25.0,48,Male,American,Caucasian/European American/White,Native speaker,7,9,10,2,7,4.0,1.0,7,,6.428571428571429,67.72625119582383,0.6383564208161738
+12,52,26.0,32,Female,Chinese American,Asian/Asian American,Native speaker,2,4,3,9,6,1.0,7.0,5,,2.7142857142857144,17.997734330188198,0.3220434131736527
+13,53,26.0,31,Male,United States of America ,Caucasian/European American/White,Native speaker,4,7,8,2,7,7.0,1.0,3,,1.8571428571428572,11.089268000666507,0.32834955089820367
+14,64,32.0,27,Female,American,"African/African American/Black,Caucasian/European American/White,Hispanic/Latino/Latina/Latinx/Latine",Native speaker,6,10,9,3,9,1.0,6.0,6,,4.428571428571429,34.08639644190642,0.4402918287937742
+15,65,32.0,61,Female,American,Caucasian/European American/White,Proficient User,10,5,8,3,10,6.0,2.0,7,,6.857142857142857,38.10195552070124,0.5368774319066147
+16,76,38.0,29,Female,American,Caucasian/European American/White,Native speaker,6,8,9,9,10,1.0,7.0,4,,4.857142857142857,1.989143598605042,0.16032717282717285
+17,77,38.0,38,Male,American,Asian/Asian American,Native speaker,7,3,9,4,5,7.0,5.0,7,,6.0,46.07316501309489,0.4494380619380619
+18,78,39.0,39,Female,American,Caucasian/European American/White,Native speaker,7,4,8,10,10,1.0,6.0,7,,4.571428571428571,51.94308701585129,0.6098581839669096
+19,79,39.0,61,Female,American,"Caucasian/European American/White,Hispanic/Latino/Latina/Latinx/Latine",Native speaker,8,8,7,5,8,6.0,2.0,7,,5.857142857142857,44.37171395712274,0.5162005121134529
+20,80,40.0,54,Female,American,Hispanic/Latino/Latina/Latinx/Latine,Native speaker,8,8,8,4,9,1.0,5.0,3,,2.2857142857142856,26.72066997409086,0.5942888577715544
+21,81,40.0,58,Male,USA,Caucasian/European American/White,Native speaker,8,8,8,4,8,2.0,1.0,7,,4.714285714285714,52.41071676328064,0.5275955191038209
+22,82,41.0,57,Female,United States,Caucasian/European American/White,Native speaker,4,7,8,5,10,7.0,5.0,7,,5.142857142857143,29.26652213961927,0.3176014319809069
+23,83,41.0,29,Male,American,Caucasian/European American/White,Native speaker,2,7,10,10,6,1.0,2.0,7,,6.428571428571429,44.57467229617513,0.4337559665871122
